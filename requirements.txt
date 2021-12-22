@@ -1,3 +1,2 @@
 django
-joblib
-scikit-learn
+pickle
