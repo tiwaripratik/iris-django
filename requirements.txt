@@ -1,2 +1,4 @@
 django
 pickle
+django-heroku
+gunicorn
