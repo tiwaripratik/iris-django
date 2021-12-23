@@ -20,7 +20,7 @@ def result(request):
 
 	ans = model.predict([lis])
 
-	x = ['setosa', 'versicolor', 'virginica']
+	x = ['setosa', 'versicolor', '  virginica']
 
 	ans = x[ans[0]]
 
