@@ -26,8 +26,7 @@ SECRET_KEY = 'django-insecure-)0&=%y4yox$pna1&k!#e3^ir4qsv2me*=)t2ef#9^jpkoya0ju
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://iris-django-123.herokuapp.com',
-'localhost',
+ALLOWED_HOSTS = ['localhost',
 '127.0.0.1']
 
 
